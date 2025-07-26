@@ -4,7 +4,7 @@
 
 ## Objective
 
-Cybersecurity graduate with 1.5 years of hands on experience in a Network Operations Center. Skilled in network monitoring, troubleshooting, Juniper OS, and Wireshark. Looking to build my skills with Active Directory, Linux, and Siem tools. 
+Cybersecurity graduate with 1.5 years of hands on experience in a Network Operations Center. Skilled in network monitoring, troubleshooting, Juniper OS, and Wireshark. Looking to build and showcase my skills with Active Directory, Linux, and Siem tools. 
 
 ## Skills
 
