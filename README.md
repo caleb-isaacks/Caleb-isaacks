@@ -1,6 +1,6 @@
 
 # Hello, I'm Caleb
-<a href="https://linkedin.com/in/caleb-isaacks-41a0731a2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/caleb-isaacks"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 
