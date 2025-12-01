@@ -10,7 +10,7 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Splunk Implementation and Log Analysis          | <a href="https://github.com/caleb-isaacks/Splunk-Project/blob/main/README.md">Splunk Lab</a>|
 
 
 ## Tools
