@@ -40,3 +40,9 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 
 ## Projects
 -Splunk Implementation and Log Analysis
+
+## Education
+- Masters of Science Cybersecurity Western Governors University
+- Bachelors of Science Cybersecurity Western Governors University
+
+
