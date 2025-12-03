@@ -11,7 +11,7 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk Implementation and Log Analysis          | <a href="https://github.com/caleb-isaacks/Splunk-Project/blob/main/README.md">Splunk Lab</a>|
-
+| SIEM Detection Engineering (Splunk)             | <a href="https://github.com/caleb-isaacks/SSH-Brute-Force-Detection">SSH-Brute-Force-Alert</a>|
 
 ## Tools
 
