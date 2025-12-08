@@ -11,8 +11,8 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk Implementation and Log Analysis          | <a href="https://github.com/caleb-isaacks/Splunk-Project/blob/main/README.md">Splunk Lab</a>|
-| SIEM Detection Engineering (Splunk)             | <a href="https://github.com/caleb-isaacks/SSH-Brute-Force-Detection">SSH-Brute-Force-Alert</a>|
-
+| SIEM Detection Engineering                      | <a href="https://github.com/caleb-isaacks/SSH-Brute-Force-Detection">SSH-Brute-Force-Alert</a>|
+| Linux Hardening + Auditing Script               | <a href="https://github.com/caleb-isaacks/Linux-Hardening-Audit-Script/blob/main/README.md">Linux Hardening</a>|
 ## Tools
 
 ### Network
@@ -39,7 +39,9 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 </div>
 
 ## Projects
--Splunk Implementation and Log Analysis
+-Splunk Implementation, Log analysis, Alert Creation and Dashboard Creation
+
+-Linux Hardening and Auditing Script
 
 ## Education
 - Bachelors of Science Cybersecurity Western Governors University
