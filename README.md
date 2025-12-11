@@ -13,16 +13,15 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 | Splunk Implementation and Log Analysis          | <a href="https://github.com/caleb-isaacks/Splunk-Project/blob/main/README.md">Splunk Lab</a>|
 | SIEM Detection Engineering                      | <a href="https://github.com/caleb-isaacks/SSH-Brute-Force-Detection">SSH-Brute-Force-Alert</a>|
 | Linux Hardening + Auditing Script               | <a href="https://github.com/caleb-isaacks/Linux-Hardening-Audit-Script/blob/main/README.md">Linux Hardening</a>|
+| Linux Backup + Restoration Automation           | <a href="https://github.com/caleb-isaacks/Linux-Backup-and-Restoration-Automation-System">Linux Backup and Restoration System</a>|
+| Nmap Port Scan Detection                        | <a href="https://github.com/caleb-isaacks/Nmap-port-scan-detection-/blob/main/README.md">Nmap Port Scan Detection</a>|
+
 ## Tools
 
-### Network
+### Networking
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
-
-### Endpoint
-<div>
-    
 
 </div>
 
@@ -31,7 +30,7 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
-## Certifications
+## Certifications (Click for link)
 <div>
 <a href="https://www.credly.com/badges/7bf9012c-f48a-4494-bc60-b7a35016ae2c/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://www.credly.com/badges/251abe10-c6ec-4f05-92a9-6fd43d533a1b/public_url"><img src="https://img.shields.io/badge/-Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -43,7 +42,12 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 
 -Linux Hardening and Auditing Script
 
+-Linux Backup and Restoration Automation System
+
+-Nmap Port Scan Dection 
+
 ## Education
 - Bachelors of Science Cybersecurity Western Governors University
+- Master of Science Cybersecurity Western Governors University
 
 
