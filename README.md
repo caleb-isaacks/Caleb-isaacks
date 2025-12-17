@@ -24,11 +24,17 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-</div>
+### Operating Systems
+<div>
+<img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
+<div>
 
-### SIEM
+### Tools
 <div>  
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
 </div>
 
 ## Certifications (Click for link)
