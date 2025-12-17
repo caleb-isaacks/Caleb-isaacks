@@ -31,7 +31,7 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
 <div>
 
-### Tools
+### Security & Monitoring
 <div>  
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
