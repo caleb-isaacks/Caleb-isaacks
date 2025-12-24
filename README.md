@@ -4,7 +4,7 @@
 
 ## Objective
 
-Cybersecurity graduate with 2 years of hands on experience in a Network Operations Center. Skilled in network monitoring, troubleshooting, Juniper OS, and Wireshark. Looking to build and showcase my skills with Active Directory, Linux, and Siem tools. 
+Cybersecurity graduate with 2 years of hands on experience in a Network Operations Center. Skilled in network monitoring, troubleshooting, Juniper OS, and Wireshark. Looking to build and showcase my skills with Active Directory, Linux, Python, and Siem tools. 
 
 ## Skills
 
@@ -16,6 +16,7 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 | Linux Backup + Restoration Automation           | <a href="https://github.com/caleb-isaacks/Linux-Backup-and-Restoration-Automation-System">Linux Backup and Restoration System</a>|
 | Nmap Port Scan Detection                        | <a href="https://github.com/caleb-isaacks/Nmap-port-scan-detection-/blob/main/README.md">Nmap Port Scan Detection</a>|
 | Active Directory Implementation and Hardening   | <a href="https://github.com/caleb-isaacks/Active-Directory-Deployment-and-Hardening/blob/main/README.md">Active Directory</a>|
+| Vulnerability Scanning and Remediation (Nessus) | <a href="https://github.com/caleb-isaacks/Active-Directory-Deployment-and-Hardening/blob/main/README.md">Nessus Scanning and remediation</a>|
 
 ## Tools
 
@@ -54,6 +55,8 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 -Nmap Port Scan Dection 
 
 -Active Directory implementaion and Hardening
+
+-Vulnerability Scanning and Remediation With Nessus
 
 ## Education
 - Bachelors of Science Cybersecurity Western Governors University
