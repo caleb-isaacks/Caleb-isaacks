@@ -1,10 +1,10 @@
 
-# Hello, I'm Caleb
+# Hi, I'm Caleb
 <a href="https://linkedin.com/in/caleb-isaacks"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 
-Cybersecurity graduate with 2 years of hands on experience in a Network Operations Center. Skilled in network monitoring, troubleshooting, Juniper OS, and Wireshark. Looking to build and showcase my skills with Active Directory, Linux, Python, and Siem tools. 
+Cybersecurity graduate with 2 years of hands on experience in a Network Operations Center. Skilled in network monitoring, troubleshooting, Linux, Juniper OS, and Wireshark. Looking to build and showcase my skills with Active Directory, Python, Nessus and Splunk.
 
 ## Skills
 
