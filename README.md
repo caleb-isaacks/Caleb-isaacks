@@ -4,19 +4,19 @@
 
 ## Objective
 
-Cybersecurity graduate with 2 years of hands on experience in a Network Operations Center. Skilled in network monitoring, troubleshooting, Linux, Juniper OS, and Wireshark. Looking to build and showcase my skills with Active Directory, Python, Nessus and Splunk.
+Cybersecurity graduate with 2+ years of hands-on experience in a Network Operations Center, specializing in vulnerability management, infrastructure security, and network monitoring. Experienced with Linux and Windows Active Directory environments, vulnerability scanning with Nessus, exposure analysis with Nmap, and security monitoring using Splunk. This portfolio showcases practical security projects focused on risk reduction, remediation, and validation.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Nessus Vulnerability Scanning and Remediation   | <a href="https://github.com/caleb-isaacks/Vulnerability-Scanning-Remediation-Lab-Nessus-">Nessus Scanning and remediation</a>|
 | Splunk Implementation and Log Analysis          | <a href="https://github.com/caleb-isaacks/Splunk-Project/blob/main/README.md">Splunk Lab</a>|
 | SIEM Detection Engineering                      | <a href="https://github.com/caleb-isaacks/SSH-Brute-Force-Detection">SSH-Brute-Force-Alert</a>|
 | Linux Hardening + Auditing Script               | <a href="https://github.com/caleb-isaacks/Linux-Hardening-Audit-Script/blob/main/README.md">Linux Hardening</a>|
-| Linux Backup + Restoration Automation           | <a href="https://github.com/caleb-isaacks/Linux-Backup-and-Restoration-Automation-System">Linux Backup and Restoration System</a>|
 | Nmap Port Scan Detection                        | <a href="https://github.com/caleb-isaacks/Nmap-port-scan-detection-/blob/main/README.md">Nmap Port Scan Detection</a>|
 | Active Directory Implementation and Hardening   | <a href="https://github.com/caleb-isaacks/Active-Directory-Deployment-and-Hardening/blob/main/README.md">Active Directory</a>|
-| Nessus Vulnerability Scanning and Remediation   | <a href="https://github.com/caleb-isaacks/Vulnerability-Scanning-Remediation-Lab-Nessus-">Nessus Scanning and remediation</a>|
+
 
 ## Tools
 
@@ -46,17 +46,17 @@ Cybersecurity graduate with 2 years of hands on experience in a Network Operatio
 </div>
 
 ## Projects
+-Vulnerability Scanning and Remediation With Nessus
+
 -Splunk Implementation, Log analysis, Alert Creation and Dashboard Creation
 
 -Linux Hardening and Auditing Script
-
--Linux Backup and Restoration Automation System
 
 -Nmap Port Scan Dection 
 
 -Active Directory implementaion and Hardening
 
--Vulnerability Scanning and Remediation With Nessus
+
 
 ## Education
 - Bachelors of Science Cybersecurity Western Governors University
