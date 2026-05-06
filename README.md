@@ -4,14 +4,14 @@
 
 ## Objective
 
-Cybersecurity graduate with 2+ years of hands-on experience in a Network Operations Center, specializing in vulnerability management, infrastructure security, and network monitoring. Experienced with Linux and Windows Active Directory environments, vulnerability scanning with Nessus, exposure analysis with Nmap, and security monitoring using Splunk. This portfolio showcases practical security projects focused on risk reduction, remediation, and validation.
+Cybersecurity graduate with 2+ years of hands-on experience in a Network Operations Center. Experienced with Linux, Windows Active Directory environments, vulnerability scanning with Nessus, and security monitoring using Splunk. This portfolio showcases practical security projects focused on risk reduction, remediation, and validation.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Small Business Migration and Secure Access      | <a href="https://github.com/caleb-isaacks/Small-Business-Azure-Lab-IAM">Azure Secure Access Lab</a>|
-| Enterprise AD, Vulnerability Managment, and Threat Detection Lab   | <a href="https://github.com/caleb-isaacks/Enterprise-Hardening-Vulnerability-Management-and-Threat-Detection-Lab/blob/main/README.md">Enterprise AD, Vulnerability Managment, and Threat Detection Lab</a>|
+| Azure, IAM, RBAC  | <a href="https://github.com/caleb-isaacks/Small-Business-Azure-Lab-IAM">Azure Secure Access Lab</a>|
+| Active Directory, Vulnerability Managment, Threat detection   | <a href="https://github.com/caleb-isaacks/Enterprise-Hardening-Vulnerability-Management-and-Threat-Detection-Lab/blob/main/README.md">Enterprise AD, Vulnerability Managment, and Threat Detection Lab</a>|
 
 
 ### Networking
@@ -42,11 +42,8 @@ Cybersecurity graduate with 2+ years of hands-on experience in a Network Operati
 ## Projects
 -Azure Small Business Migration and Secure Access Lab
 
--Vulnerability Scanning and Remediation With Nessus
+-Enterprise Hardening, Vulnerability Management and Threat Detection Lab
 
--Splunk Implementation, Log analysis, Alert Creation and Dashboard Creation
-
--Active Directory implementaion and Hardening
 
 
 
