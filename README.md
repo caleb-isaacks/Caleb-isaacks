@@ -10,9 +10,9 @@ Cybersecurity graduate with 2+ years of hands-on experience in a Network Operati
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Small Business Migration and Secure Access      | <a href="https://github.com/caleb-isaacks/Small-Business-Azure-Lab-IAM">Azure Secure Access Lab</a>|
 | Nessus Vulnerability Scanning and Remediation   | <a href="https://github.com/caleb-isaacks/Vulnerability-Scanning-Remediation-Lab-Nessus-">Nessus Scanning and remediation</a>|
 | Splunk Implementation and Log Analysis          | <a href="https://github.com/caleb-isaacks/Splunk-Project/blob/main/README.md">Splunk Lab</a>|
-| Small Business Migration and Secure Access      | <a href="https://github.com/caleb-isaacks/Small-Business-Azure-Lab-IAM">Azure Secure Access Lab</a>|
 | Active Directory Implementation and Hardening   | <a href="https://github.com/caleb-isaacks/Active-Directory-Deployment-and-Hardening/blob/main/README.md">Active Directory</a>|
 
 
@@ -44,13 +44,11 @@ Cybersecurity graduate with 2+ years of hands-on experience in a Network Operati
 </div>
 
 ## Projects
+-Azure Small Business Migration and Secure Access Lab
+
 -Vulnerability Scanning and Remediation With Nessus
 
 -Splunk Implementation, Log analysis, Alert Creation and Dashboard Creation
-
--Linux Hardening and Auditing Script
-
--Nmap Port Scan Dection 
 
 -Active Directory implementaion and Hardening
 
