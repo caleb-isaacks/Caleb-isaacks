@@ -55,7 +55,7 @@ Cybersecurity graduate with 2+ years of hands-on experience in a Network Operati
 
 
 ## Education
-- Bachelors of Science Cybersecurity Western Governors University
-- Master of Science Cybersecurity Western Governors University
+- Bachelors of Science Cybersecurity and Information Assurance Western Governors University
+- Master of Science Cybersecurity and Information Assurance Western Governors University
 
 
