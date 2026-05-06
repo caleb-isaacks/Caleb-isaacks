@@ -10,7 +10,7 @@ Cybersecurity graduate with 2+ years of hands-on experience in a Network Operati
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Azure, IAM, RBAC  | <a href="https://github.com/caleb-isaacks/Small-Business-Azure-Lab-IAM">Azure Secure Access Lab</a>|
+| Entra ID, IAM, RBAC  | <a href="https://github.com/caleb-isaacks/Small-Business-Azure-Lab-IAM">Azure Secure Access Lab</a>|
 | Active Directory, Vulnerability Managment, Threat detection   | <a href="https://github.com/caleb-isaacks/Enterprise-Hardening-Vulnerability-Management-and-Threat-Detection-Lab/blob/main/README.md">Enterprise AD, Vulnerability Managment, and Threat Detection Lab</a>|
 
 
