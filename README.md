@@ -12,9 +12,7 @@ Cybersecurity graduate with 2+ years of hands-on experience in a Network Operati
 |-----------------------------------------------|----------------------------|
 | Nessus Vulnerability Scanning and Remediation   | <a href="https://github.com/caleb-isaacks/Vulnerability-Scanning-Remediation-Lab-Nessus-">Nessus Scanning and remediation</a>|
 | Splunk Implementation and Log Analysis          | <a href="https://github.com/caleb-isaacks/Splunk-Project/blob/main/README.md">Splunk Lab</a>|
-| SIEM Detection Engineering                      | <a href="https://github.com/caleb-isaacks/SSH-Brute-Force-Detection">SSH-Brute-Force-Alert</a>|
-| Linux Hardening + Auditing Script               | <a href="https://github.com/caleb-isaacks/Linux-Hardening-Audit-Script/blob/main/README.md">Linux Hardening</a>|
-| Nmap Port Scan Detection                        | <a href="https://github.com/caleb-isaacks/Nmap-port-scan-detection-/blob/main/README.md">Nmap Port Scan Detection</a>|
+| Small Business Migration and Secure Access      | <a href="https://github.com/caleb-isaacks/Small-Business-Azure-Lab-IAM">Azure Secure Access Lab</a>|
 | Active Directory Implementation and Hardening   | <a href="https://github.com/caleb-isaacks/Active-Directory-Deployment-and-Hardening/blob/main/README.md">Active Directory</a>|
 
 
