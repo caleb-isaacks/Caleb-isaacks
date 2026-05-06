@@ -13,7 +13,6 @@ Cybersecurity graduate with 2+ years of hands-on experience in a Network Operati
 | Small Business Migration and Secure Access      | <a href="https://github.com/caleb-isaacks/Small-Business-Azure-Lab-IAM">Azure Secure Access Lab</a>|
 | Enterprise AD, Vulnerability Managment, and Threat Detection Lab   | <a href="">Enterprise AD, Vulnerability Managment, and Threat Detection Lab</a>|
 
-## Tools********
 
 ### Networking
 <div>
